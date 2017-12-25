@@ -23,3 +23,11 @@ body {
   margin: 0 auto;
   width:100%;
 }
+
+#middle_header{
+  font-family: Verdana;
+  font-weight: 42;
+  color: white;
+  font-size: 42;
+
+}
