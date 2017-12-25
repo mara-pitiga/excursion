@@ -1,5 +1,6 @@
 html{
   background-color: black;
+  font-family: Verdana;
 }
 
 #header_title{
@@ -10,8 +11,7 @@ html{
   text-align: center;
 }
 
-#header_link{
-  color: Aquamarine;
+a.cta {
   font-size: 16px;
-  text-align: center;
+  color: aquamarine;
 }
