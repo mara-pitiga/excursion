@@ -9,3 +9,9 @@ html{
   color: white;
   text-align: center;
 }
+
+#header_link{
+  color: Aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
